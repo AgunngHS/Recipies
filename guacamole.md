@@ -2,6 +2,5 @@
 ## Ingredients
 *Avocado
 *Salt
-*Ginger
-*Lemon
+*Lime
 ## Method
