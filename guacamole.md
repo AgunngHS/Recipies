@@ -3,6 +3,5 @@
 *Avocado
 *Salt
 *Ginger
-*Lime
-*Coriander
+*Lemon
 ## Method
