@@ -7,5 +7,7 @@
 ## Method
 Mash avacado
 
-tapi saya gak suka makan mash avocado
-hahaha
+We need to back home
+=======
+Put some salt on it
+but we dont have salt
